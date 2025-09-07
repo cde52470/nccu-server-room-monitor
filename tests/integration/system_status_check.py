@@ -88,11 +88,11 @@ except Exception as e:
     print(f"   錯誤: {e}")
 
 # 5. 水位感測器（推測）
-print("\n5️⃣ 水位偵測")
-print("-" * 30)
-print("   狀態: ❓ 未確認")
-print("   可能位置: GPIO 2 或 GPIO 3 (I2C)")
-print("   需要進一步測試確認")
+# print("\n5️⃣ 水位偵測")
+# print("-" * 30)
+# print("   狀態: ❓ 未確認")
+# print("   可能位置: GPIO 2 或 GPIO 3 (I2C)")
+# print("   需要進一步測試確認")
 
 # 6. 資料儲存
 print("\n6️⃣ 資料儲存")
